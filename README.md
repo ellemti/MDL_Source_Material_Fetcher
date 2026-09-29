@@ -261,6 +261,8 @@ with, endorsed by, or sponsored by Valve Corporation. "Source",
 "Source Engine", and related marks are trademarks of Valve
 Corporation.
 
+this was made with the help of ai
+
 ## License
 
 MIT — see [LICENSE](LICENSE). This covers the code in this repo only;

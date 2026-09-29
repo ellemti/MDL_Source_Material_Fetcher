@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+!SourceMaterialFetcher.spec
+SourceMaterialFetcher.exe
+release/
+installer_output/
+portable/
+
+# Local settings (contains your machine's folder paths)
+SourceMaterialFetcher_Settings.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
